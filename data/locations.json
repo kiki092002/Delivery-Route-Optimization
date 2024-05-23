@@ -1,0 +1,7 @@
+{
+    "Seattle": {"Bellevue": 10, "Redmond": 15, "Tacoma": 35},
+    "Bellevue": {"Seattle": 10, "Redmond": 7, "Tacoma": 40},
+    "Redmond": {"Seattle": 15, "Bellevue": 7, "Tacoma": 45},
+    "Tacoma": {"Seattle": 35, "Bellevue": 40, "Redmond": 45, "Olympia": 30},
+    "Olympia": {"Tacoma": 30, "Seattle": 60}
+}
